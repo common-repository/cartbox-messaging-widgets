@@ -1,0 +1,459 @@
+.cbcart-icon-box{
+    position: fixed;
+    bottom:20px;
+    cursor: pointer;
+    font-size: 16px;
+    z-index: 999999999;
+}
+.cbcart-icon-box img{
+    height: 64px !important;
+    width: auto !important;
+}
+.cbcart-icon-box.cbcart-left{
+    left: 20px;
+}
+.cbcart-icon-with-text img{
+    width: 35px !important;
+    height: 35px !important;
+}
+.cbcart-icon-box.cbcart-right{
+    right: 20px;
+}
+.cbcart-hide{
+    display: none !important;
+}
+.cbcart-account-popup {
+    position: fixed;
+    min-width: 200px;
+    bottom: 85px;
+    background: #FFF;
+    padding: 5px 15px;
+    border-radius: 15px;
+    border: 1px solid #e1e1e1;
+    font-size: 18px;
+}
+.cbcart-icon-box a{
+    text-decoration: none;
+}
+.cbcart-icon {
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    color: #FFF;
+    padding: 10px;
+}
+.cbcart-popup-box{
+    overflow: hidden;
+}
+.cbcart-icon-with-text {
+    background: green;
+}
+.cbcart-icon-with-text {
+    padding:10px 20px
+}
+.cbcart-chat-text {
+    margin-left: 10px;
+}
+.cbcart-icon-box.cbcart-left .cbcart-account-popup {
+    left:20px;
+}
+.cbcart-icon-box.cbcart-right .cbcart-account-popup {
+    right:20px;
+}
+.cbcart-tooltip-text{
+    position: absolute;
+    background: #333;
+    padding: 6px 20px;
+    border-radius: 10px;
+    display: none;
+    text-transform: capitalize;
+    white-space: nowrap;
+    line-height: 2;
+}
+.cbcart-right .cbcart-tooltip-text{
+    margin-right: 10px;
+    right: 100%;
+}
+.cbcart-right .cbcart-tooltip-text::before{
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid #333;
+    right: -7px;
+    position: absolute;
+    top: 12px;
+}
+
+.cbcart-left .cbcart-tooltip-text::before{
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid #333;
+    left: -7px;
+    position: absolute;
+    top: 12px;
+}
+.cbcart-left .cbcart-widget-popup::after {
+    content: "";
+    bottom: 50px;
+    left: 35px;
+    border-top: 10px solid #FFF;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    z-index: 99999;
+    position: absolute;
+}
+.cbcart-right .cbcart-widget-popup::after {
+    content: "";
+    bottom: 50px;
+    right: 35px;
+    border-top: 10px solid #FFF;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    z-index: 99999;
+    position: absolute;
+}
+.cbcart-onlyicon .cbcart-widget-popup::after {
+    bottom: 70px;
+}
+.cbcart-left .cbcart-tooltip-text{
+    margin-left: 10px;
+    left: 100%;
+}
+.cbcart-icon-box:hover .cbcart-tooltip-text{
+    display: block;
+}
+.cbcart-profile:last-child{
+    border: 0;
+}
+.cbcart-profile{
+    display: flex;
+    align-items: center;
+    padding:10px 0;
+    border-bottom:1px solid #e1e1e1
+}
+.cbcart-profile-icon {
+    margin-right: 15px;
+    width: 24px;
+}
+.cbcart-popup-box {
+    position: fixed;
+    bottom: 90px;
+    background: #FFF;
+    border-radius: 10px;
+    height: 0px;
+    opacity: 0;
+    animation-name: monFramer;
+    animation-duration: 4s;
+    box-shadow: 0px 0px 8px 4px #bbbbbb;
+}
+.cbcart-widget-popup-header {
+    background: green;
+    color: #FFF;
+    padding: 10px;
+    text-align: center;
+    line-height: 1.4;
+    border-radius: 10px 10px 0 0;
+}
+.cbcart-widget-close {
+    position: absolute;
+    right: 10px;
+    top: 0px;
+}
+.cbcart-widget-popup-body {
+    padding: 8px;
+}
+
+.cbcart-right .cbcart-popup-box{
+    right:25px;
+    width: 300px;
+}
+
+.cbcart-left .cbcart-popup-box{
+    left:25px;
+    width: 300px;
+}
+.cbcart-profile-widget {
+    display: flex;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 8px;
+    align-items: center;
+}
+.cbcart-profile-widget:last-child{
+    border-bottom: 0;
+}
+.cbcart-profile-widget img {
+    width: 50px;
+    padding-right: 10px;
+    height: 40px !important;
+}
+.cbcart-profile-title{
+    font-size: 16px;
+    color:#333;
+}
+.cbcart-profile-position{
+    font-size: 14px;
+    color:#6c757d;
+}
+.cbcart-onlyicon .cbcart-popup-box {
+    bottom: 110px;
+}
+.cbcart-popup-body{
+    width: 20%;
+    margin: auto;
+    padding: 10px;
+}
+.cbcart-modal-close-icon{
+    padding:10px !important;
+    border-radius: 10px !important;
+    background-color:transparent !important;
+    font-size: 28px !important;
+    line-height: 16px !important;
+    color: black !important;
+    padding-top: 0px !important;
+    position: absolute !important;
+    right: 0px !important;
+    border: none!important;
+}
+.cbcart-modal-close-icon:hover{
+    background-color:transparent !important;
+    color: black !important;
+}
+.cbcart-modal-close-icon:focus{
+    background-color:transparent !important;
+    color: black !important;
+}
+.cbcart-modal-heading-icon{
+    font-size:46px;
+}
+.cbcart_modal_text{
+    font-size: 14px;
+    line-height: .5;
+}
+.cbcart_modalheading{
+    font-size: 22px;
+    font-weight: bold;
+}
+.cbcart_phnno_input{
+    border: 1px solid #ced4da !important;
+    border-radius: 8px !important;
+}
+#cbcart_modal_button{
+    border-radius: 8px;
+}
+.cbcart_icon_img_space {
+    margin-bottom: 18px;
+    flex: 0 0 auto;
+    width: 16.66666667%;
+}
+.cbcart_card {
+
+}
+.cbcart_modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 10000000; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.cbcart-modal-content {
+    background-color: #fefefe;
+    width: 40%; /* Could be more or less, depending on screen size */
+    border-radius: 16px !important;
+    padding: 12px 16px 16px !important;
+    box-shadow: 6px 6px 4px rgb(0 0 0 / 10%) !important;
+    word-wrap: break-word;
+    border: 1px solid rgba(0, 0, 0, .125) !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000000;
+}
+.cbcart_header{
+    display: flex;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+    padding-top: 32px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: normal;
+}
+.cbcart_button_disabled {
+    pointer-events: none;
+    opacity: 0.5;
+    cursor: not-allowed;
+    color: gray;
+    background-color: #f3f3f3;
+}
+.cbcart_phnno_input {
+    display: block !important;
+    width: 100% !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    background-color: #fff !important;
+    background-clip: padding-box !important;
+    appearance: none !important;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    border: 1px solid #ced4da !important;
+    border-radius: 8px !important;
+    padding: 10px 15px !important;
+}
+.cbcart_phnno_input:focus{
+    border: 1px solid #ced4da !important;
+    outline: none!important;
+}
+.cbcart_icon_img_right_space{
+    flex: 1 0 0%;
+    line-height: 1.2;
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+.cbcart-modal-body{
+    position: relative;
+    flex: 1 1 auto;
+}
+.cbcart-form-check{
+    margin-top: 4px !important;
+}
+.cbcart_btn {
+    width: 100%;
+    margin-top: 16px !important;
+}
+.cbcart_modal_submit{
+    font-weight: bolder !important;
+    cursor: pointer !important;
+    border-radius: 8px !important;
+    display: inline-block !important;
+    line-height: 1.5 !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    vertical-align: middle !important;
+    user-select: none !important;
+    border: 1px solid transparent !important;
+    padding: 6px 12px !important;
+    font-size: 16px !important;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out !important;
+    width: 100% !important;
+    text-transform: none !important;
+}
+.cbcart_modal_submit:focus{
+    outline: none !important;
+}
+.cbcart_error_msg{
+    color: red !important;
+    font-size: 14px !important;
+}
+/* The container */
+.cbcart-form-check {
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.cbcart-form-check input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+/* Create a custom checkbox */
+.cbcart_checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.cbcart-form-check:hover input ~ .cbcart_checkmark {
+    background-color: #ccc !important;
+}
+
+/* When the checkbox is checked, add a blue background */
+.cbcart-form-check input:checked ~ .cbcart_checkmark {
+    background-color: #2196F3 !important;
+}
+
+/* Create the cbcart_checkmark/indicator (hidden when not checked) */
+.cbcart_checkmark:after {
+    content: "" !important;
+    position: absolute !important;
+    display: none !important;
+}
+
+/* Show the cbcart_checkmark when checked */
+.cbcart-form-check input:checked ~ .cbcart_checkmark:after {
+    display: block !important;
+}
+
+/* Style the cbcart_checkmark/indicator */
+.cbcart-form-check .cbcart_checkmark:after {
+    left: 9px !important;
+    top: 4px !important;
+    width: 7px !important;
+    height: 15px !important;
+    border: solid white !important;
+    border-width: 0 3px 3px 0 !important;
+    -webkit-transform: rotate(45deg)!important;
+    -ms-transform: rotate(45deg)!important;
+    transform: rotate(45deg) !important;
+}
+.cbcart_input_div{
+    display: flex;
+}
+.cbcart_modal_p{
+    margin: 0px;
+}
+@media only screen and (max-width: 600px) {
+    .cbcart-modal-content{
+        width: 80%;
+        top:40%
+    }
+    .cbcart-modal-heading-icon {
+        font-size: 40px;
+    }
+    .cbcart_icon_img_space {
+        margin-bottom: 0px;
+        text-align: center;
+    }
+    .cbcart_header{
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        padding-top: 0%;
+    }
+    .cbcart_icon_img_right_space{
+        text-align: center;
+        letter-spacing: 0.04rem;
+    }
+}

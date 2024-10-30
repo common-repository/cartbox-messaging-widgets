@@ -1,0 +1,3261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 3.0.4\n"
+"Language-Team: cartbox\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+
+#: admin/class-cbcart-admin.php:115
+#: admin/partials/cbcart-admin-abandonedcart.php:774
+#: admin/partials/cbcart-admin-success.php:341
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:116
+msgid "Click To Chat"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:117
+#: admin/partials/cbcart-admin-dashboard.php:65
+msgid "Order Notification"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:118
+#: admin/partials/cbcart-admin-dashboard.php:92
+msgid "Abandoned Cart"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:119
+msgid "Message Notification for CF7"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:120
+#: admin/partials/cbcart-admin-incoming-message.php:112
+msgid "Incoming Message"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:121
+#: admin/partials/cbcart-admin-dashboard.php:196
+msgid "Mobile Capture"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:122
+msgid "CloudAPI Tutorial"
+msgstr ""
+
+#: admin/class-cbcart-admin.php:123
+#: admin/partials/cbcart-admin-order-notification.php:408
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:167
+msgid ""
+"Hi We noticed you didn't finish your order on {storename}.\n"
+"\n"
+"Visit {siteurl} to complete your order.  \n"
+"\n"
+"Thanks, {storename}."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:168
+msgid ""
+"{customername}, You left some items in your cart!\n"
+"\n"
+"We wanted to make sure you had the chance to get what you need. \n"
+"\n"
+"Continue shopping: {storename}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:169
+msgid ""
+"Hi we see you left few items in the cart at {siteurl}. Your items are "
+"waiting for you! Grab your favorites before they go out of stock. \n"
+"\n"
+"Your friends from {storename}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:170
+msgid ""
+"{customername}, Your cart is waiting for you at {siteurl}\n"
+"\n"
+"Complete your purchase before someone else buys them! Click {siteurl} to "
+"finish your order now.\n"
+" \n"
+"Thanks!\n"
+" {storename}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:171
+msgid ""
+"Hello Did you forget to complete your order on {siteurl}. \n"
+"Just click the link to finish the order!\n"
+"\n"
+"Your friends at {storename}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:375
+msgid "Messages updated successfully!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:682
+msgid "10"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:683
+#: admin/partials/cbcart-admin-abandonedcart.php:1004
+#: admin/partials/cbcart-admin-abandonedcart.php:1070
+#: admin/partials/cbcart-admin-abandonedcart.php:1135
+#: admin/partials/cbcart-admin-abandonedcart.php:1203
+#: admin/partials/cbcart-admin-abandonedcart.php:1271
+#: admin/partials/cbcart-admin-settings.php:667
+msgid "cbcart_select_minute"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:686
+msgid "12"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:687
+#: admin/partials/cbcart-admin-abandonedcart.php:1005
+#: admin/partials/cbcart-admin-abandonedcart.php:1071
+#: admin/partials/cbcart-admin-abandonedcart.php:1136
+#: admin/partials/cbcart-admin-abandonedcart.php:1204
+#: admin/partials/cbcart-admin-abandonedcart.php:1272
+#: admin/partials/cbcart-admin-settings.php:669
+msgid "cbcart_select_hour"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:690
+#: admin/partials/cbcart-admin-setup-email.php:142
+#: admin/partials/cbcart-admin-setup-toogle.php:230
+#: admin/partials/cbcart-admin-startup.php:139
+msgid "1"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:691
+#: admin/partials/cbcart-admin-abandonedcart.php:695
+#: admin/partials/cbcart-admin-abandonedcart.php:699
+#: admin/partials/cbcart-admin-abandonedcart.php:1006
+#: admin/partials/cbcart-admin-abandonedcart.php:1072
+#: admin/partials/cbcart-admin-abandonedcart.php:1137
+#: admin/partials/cbcart-admin-abandonedcart.php:1205
+#: admin/partials/cbcart-admin-abandonedcart.php:1273
+#: admin/partials/cbcart-admin-settings.php:671
+msgid "cbcart_select_day"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:694
+#: admin/partials/cbcart-admin-setup-email.php:145
+#: admin/partials/cbcart-admin-setup-number.php:130
+#: admin/partials/cbcart-admin-setup-toogle.php:234
+#: admin/partials/cbcart-admin-setup-toogle.php:252
+#: admin/partials/cbcart-admin-startup.php:150
+#: admin/partials/cbcart-admin-test-message.php:171
+msgid "2"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:698
+#: admin/partials/cbcart-admin-setup-email.php:148
+#: admin/partials/cbcart-admin-setup-number.php:133
+#: admin/partials/cbcart-admin-setup-toogle.php:256
+#: admin/partials/cbcart-admin-startup.php:161
+#: admin/partials/cbcart-admin-test-message.php:194
+msgid "3"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:766
+#: admin/partials/cbcart-admin-clicktochat.php:384
+#: admin/partials/cbcart-admin-dashboard.php:22
+#: admin/partials/cbcart-admin-early-capture.php:148
+#: admin/partials/cbcart-admin-order-notification.php:400
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:73
+msgid "logo"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:769
+msgid "cartbox abandoned cart"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:776
+msgid "Messages"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:778
+#: admin/partials/cbcart-admin-order-notification.php:409
+msgid "Report"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:789
+msgid "Please enable abandoned cart from  "
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:790
+msgid "settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:790
+msgid "to activate abandoned cart."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:798
+msgid "From Date:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:801
+msgid "To Date:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:812
+msgid "smile"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:819
+msgid "Recovered Orders"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:826
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:93
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:840
+msgid "Abandoned Orders"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:847
+msgid "Lost Amount"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:861
+#: admin/partials/cbcart-admin-abandonedcart.php:1321
+msgid "Looks like you do not have any abandoned carts yet."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:861
+#: admin/partials/cbcart-admin-abandonedcart.php:1321
+msgid "After 20 minutes"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:861
+#: admin/partials/cbcart-admin-abandonedcart.php:1321
+msgid ""
+"of someone abandoning the cart by filling the Name & Phone number fields of "
+"your WooCommerce Checkout form, the message will be sended and the entry "
+"will appear here."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:871
+msgid "ID"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:872
+#: admin/partials/cbcart-admin-abandonedcart.php:1334
+#: admin/partials/cbcart-admin-clicktochat.php:438
+#: admin/partials/cbcart-admin-clicktochat.php:497
+#: admin/partials/cbcart-admin-clicktochat.php:560
+#: admin/partials/cbcart-admin-order-notification.php:577
+msgid "Name"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:873
+#: admin/partials/cbcart-admin-abandonedcart.php:1335
+#: admin/partials/cbcart-admin-order-notification.php:578
+msgid "Contact No."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:874
+msgid "Cart Item"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:875
+#: admin/partials/cbcart-admin-abandonedcart.php:1336
+msgid "Time"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:876
+msgid "Price"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:877
+#: admin/partials/cbcart-admin-abandonedcart.php:1337
+msgid "Status"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:902
+msgid "https://wa.me/"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:939
+msgid "Abandoned"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:943
+#: admin/partials/cbcart-admin-abandonedcart.php:1351
+msgid "Recovered"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:957
+msgid "Note :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:958
+msgid ""
+"You can send up to 5 cart abandonment messages and customize the message "
+"timings below. To send a message, do \"enable\" it by selecting it below."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:961
+msgid "Add New Template"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:968
+#: admin/partials/cbcart-admin-order-notification.php:496
+msgid "Enter Image URL which you want to send with message :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:975
+msgid "Message 1"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:977
+#: admin/partials/cbcart-admin-abandonedcart.php:1012
+#: admin/partials/cbcart-admin-abandonedcart.php:1013
+#: admin/partials/cbcart-admin-abandonedcart.php:1043
+#: admin/partials/cbcart-admin-abandonedcart.php:1078
+#: admin/partials/cbcart-admin-abandonedcart.php:1079
+#: admin/partials/cbcart-admin-abandonedcart.php:1108
+#: admin/partials/cbcart-admin-abandonedcart.php:1143
+#: admin/partials/cbcart-admin-abandonedcart.php:1144
+#: admin/partials/cbcart-admin-abandonedcart.php:1176
+#: admin/partials/cbcart-admin-abandonedcart.php:1211
+#: admin/partials/cbcart-admin-abandonedcart.php:1212
+#: admin/partials/cbcart-admin-abandonedcart.php:1244
+#: admin/partials/cbcart-admin-abandonedcart.php:1279
+#: admin/partials/cbcart-admin-abandonedcart.php:1280
+#: admin/partials/cbcart-admin-order-notification.php:432
+#: admin/partials/cbcart-admin-order-notification.php:455
+#: admin/partials/cbcart-admin-order-notification.php:480
+#: admin/partials/cbcart-admin-order-notification.php:516
+msgid "update to paid plan"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:985
+#: admin/partials/cbcart-admin-abandonedcart.php:1051
+#: admin/partials/cbcart-admin-abandonedcart.php:1116
+#: admin/partials/cbcart-admin-abandonedcart.php:1184
+#: admin/partials/cbcart-admin-abandonedcart.php:1252
+#: admin/partials/cbcart-admin-test-message.php:238
+msgid "Template name"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:988
+#: admin/partials/cbcart-admin-abandonedcart.php:1054
+#: admin/partials/cbcart-admin-abandonedcart.php:1119
+#: admin/partials/cbcart-admin-abandonedcart.php:1187
+#: admin/partials/cbcart-admin-abandonedcart.php:1255
+#: admin/partials/cbcart-admin-settings.php:818
+#: admin/partials/cbcart-admin-test-message.php:245
+msgid "Please enter template name properly."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:991
+#: admin/partials/cbcart-admin-abandonedcart.php:1057
+#: admin/partials/cbcart-admin-abandonedcart.php:1122
+#: admin/partials/cbcart-admin-abandonedcart.php:1190
+#: admin/partials/cbcart-admin-abandonedcart.php:1258
+msgid "Template language"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:994
+#: admin/partials/cbcart-admin-abandonedcart.php:1060
+#: admin/partials/cbcart-admin-abandonedcart.php:1125
+#: admin/partials/cbcart-admin-abandonedcart.php:1193
+#: admin/partials/cbcart-admin-abandonedcart.php:1261
+msgid "Please enter template language properly."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:997
+#: admin/partials/cbcart-admin-abandonedcart.php:1063
+#: admin/partials/cbcart-admin-abandonedcart.php:1128
+#: admin/partials/cbcart-admin-abandonedcart.php:1196
+#: admin/partials/cbcart-admin-abandonedcart.php:1264
+msgid "Schedule Time"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1004
+#: admin/partials/cbcart-admin-abandonedcart.php:1070
+#: admin/partials/cbcart-admin-abandonedcart.php:1135
+#: admin/partials/cbcart-admin-abandonedcart.php:1203
+#: admin/partials/cbcart-admin-abandonedcart.php:1271
+#: admin/partials/cbcart-admin-settings.php:668
+msgid "Minute"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1005
+#: admin/partials/cbcart-admin-abandonedcart.php:1071
+#: admin/partials/cbcart-admin-abandonedcart.php:1136
+#: admin/partials/cbcart-admin-abandonedcart.php:1204
+#: admin/partials/cbcart-admin-abandonedcart.php:1272
+#: admin/partials/cbcart-admin-settings.php:670
+#: admin/partials/cbcart-admin-settings.php:697
+#: admin/partials/cbcart-admin-settings.php:710
+msgid "Hour"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1006
+#: admin/partials/cbcart-admin-abandonedcart.php:1072
+#: admin/partials/cbcart-admin-abandonedcart.php:1137
+#: admin/partials/cbcart-admin-abandonedcart.php:1205
+#: admin/partials/cbcart-admin-abandonedcart.php:1273
+#: admin/partials/cbcart-admin-settings.php:672
+msgid "Day"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1021
+#: admin/partials/cbcart-admin-abandonedcart.php:1086
+#: admin/partials/cbcart-admin-abandonedcart.php:1154
+#: admin/partials/cbcart-admin-abandonedcart.php:1222
+#: admin/partials/cbcart-admin-abandonedcart.php:1289
+msgid "Change Template"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1025
+#: admin/partials/cbcart-admin-abandonedcart.php:1090
+#: admin/partials/cbcart-admin-abandonedcart.php:1158
+#: admin/partials/cbcart-admin-abandonedcart.php:1226
+#: admin/partials/cbcart-admin-abandonedcart.php:1293
+#: admin/partials/cbcart-admin-message-cf7.php:229
+#: admin/partials/cbcart-admin-order-notification.php:471
+#: admin/partials/cbcart-admin-order-notification.php:533
+msgid "check template status"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1039
+msgid "Message 2"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1104
+msgid "Message 3"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1172
+msgid "Message 4"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1240
+msgid "Message 5"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1305
+msgid "Save"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1333
+#: admin/partials/cbcart-admin-order-notification.php:576
+msgid "S.No."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1338
+#: admin/partials/cbcart-admin-order-notification.php:580
+msgid "Response"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1366
+msgid "Looks like your current plan does not support this feature."
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1367
+msgid " If you want to access this feature please update your plan from"
+msgstr ""
+
+#: admin/partials/cbcart-admin-abandonedcart.php:1367
+msgid "Cartbox.net"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:118
+msgid "Please Enter tooltip text."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:126
+msgid "Please Enter Widget Text."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:136
+msgid "Please Enter Icon URL."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:144
+msgid "Please Enter valid Icon URL."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:152
+#: admin/partials/cbcart-admin-createtemplates.php:110
+msgid "The given URL contains Localhost. Please Enter correct URL"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:188
+#: admin/partials/cbcart-admin-clicktochat.php:372
+#: admin/partials/cbcart-admin-early-capture.php:117
+#: admin/partials/cbcart-admin-early-capture.php:138
+#: admin/partials/cbcart-admin-message-cf7.php:132
+#: admin/partials/cbcart-admin-message-cf7.php:138
+#: admin/partials/cbcart-admin-order-notification.php:180
+#: admin/partials/cbcart-admin-order-notification.php:238
+msgid "Details update successfully."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:246
+msgid "Please Enter Mobile Number In Account1."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:253
+msgid "Please Enter Only Numbers In Account1."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:261
+msgid "Please Enter Name In Account1."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:269
+msgid "Please Enter Role / Designation In Account1."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:280
+msgid "Please Enter Mobile Number In Account2."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:287
+msgid "Please Enter Only Numbers In Account2."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:295
+msgid "Please Enter Name In Account2."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:303
+msgid "Please Enter Role / Designation In Account2."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:313
+msgid "Please Enter Mobile Number In Account3."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:320
+msgid "Please Enter Only Numbers In Account3."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:328
+msgid "Please Enter Name In Account3."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:336
+msgid "Please Enter Role / Designation In Account3."
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:387
+msgid "Cartbox click to chat"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:395
+#: admin/partials/cbcart-admin-customise-template.php:649
+#: admin/partials/cbcart-admin-incoming-message.php:159
+#: admin/partials/cbcart-admin-setup-toogle.php:362
+#: admin/partials/cbcart-admin-startup.php:202
+#: admin/partials/cbcart-admin-test-message.php:296
+msgid "WhatsApp"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:405
+msgid "Account Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:409
+msgid "Appearance Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:419
+msgid "WhatsApp Account 1"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:447
+#: admin/partials/cbcart-admin-clicktochat.php:506
+#: admin/partials/cbcart-admin-clicktochat.php:569
+msgid "WhatsApp number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:452
+#: admin/partials/cbcart-admin-clicktochat.php:512
+#: admin/partials/cbcart-admin-clicktochat.php:576
+msgid "Enter Number With Country Code"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:457
+#: admin/partials/cbcart-admin-clicktochat.php:519
+#: admin/partials/cbcart-admin-clicktochat.php:581
+msgid "Role / Designation"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:466
+#: admin/partials/cbcart-admin-clicktochat.php:528
+#: admin/partials/cbcart-admin-clicktochat.php:590
+msgid "Profile Avtar URL"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:478
+msgid "WhatsApp Account 2"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:541
+msgid "WhatsApp Account 3"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:613
+msgid "select one layout :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:617
+msgid "Only Icon"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:620
+#: admin/partials/cbcart-admin-clicktochat.php:634
+#: admin/partials/cbcart-admin-clicktochat.php:724
+#: admin/partials/cbcart-admin-clicktochat.php:735
+#: admin/partials/cbcart-admin-clicktochat.php:746
+#: admin/partials/cbcart-admin-clicktochat.php:757
+#: admin/partials/cbcart-admin-clicktochat.php:768
+#: admin/partials/cbcart-admin-clicktochat.php:779
+#: admin/partials/cbcart-admin-clicktochat.php:790
+#: admin/partials/cbcart-admin-clicktochat.php:801
+msgid "cbcart_border shadow"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:624
+msgid " checked"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:632
+msgid "Text with Icon"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:638
+#: admin/partials/cbcart-admin-clicktochat.php:682
+#: admin/partials/cbcart-admin-clicktochat.php:689
+#: admin/partials/cbcart-admin-clicktochat.php:704
+#: admin/partials/cbcart-admin-clicktochat.php:712
+#: admin/partials/cbcart-admin-clicktochat.php:728
+#: admin/partials/cbcart-admin-clicktochat.php:739
+#: admin/partials/cbcart-admin-clicktochat.php:750
+#: admin/partials/cbcart-admin-clicktochat.php:761
+#: admin/partials/cbcart-admin-clicktochat.php:772
+#: admin/partials/cbcart-admin-clicktochat.php:783
+#: admin/partials/cbcart-admin-clicktochat.php:794
+#: admin/partials/cbcart-admin-clicktochat.php:805
+#: admin/partials/cbcart-admin-settings.php:148
+#: admin/partials/cbcart-admin-settings.php:156
+msgid "checked"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:650
+msgid "Widget text :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:664
+msgid "Widget Tooltip Text :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:675
+msgid "Widget Position :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:683
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:690
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:696
+msgid "Widget Icon Type :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:705
+msgid "Default Icon"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:713
+msgid "Custom Icon"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:719
+msgid "select any one Icon   :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:814
+msgid "Custom Icon Link :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-clicktochat.php:827
+msgid "Publish :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:86
+msgid "Please Enter Production URL."
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:94
+msgid "The given URL is incorrect"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:102
+msgid "The given URL is not HTTPS. Please Enter secure URL"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:171
+#: admin/partials/cbcart-admin-setup-toogle.php:232
+#: admin/partials/cbcart-admin-success.php:305
+#: admin/partials/cbcart-admin-test-message.php:169
+msgid "Setup Account"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:174
+#: admin/partials/cbcart-admin-createtemplates.php:194
+#: admin/partials/cbcart-admin-setup-email.php:149
+#: admin/partials/cbcart-admin-setup-number.php:134
+#: admin/partials/cbcart-admin-setup-toogle.php:236
+#: admin/partials/cbcart-admin-setup-toogle.php:258
+#: admin/partials/cbcart-admin-success.php:308
+#: admin/partials/cbcart-admin-success.php:327
+#: admin/partials/cbcart-admin-test-message.php:173
+#: admin/partials/cbcart-admin-test-message.php:196
+msgid "Send a Test Message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:188
+#: admin/partials/cbcart-admin-setup-email.php:143
+#: admin/partials/cbcart-admin-setup-number.php:128
+#: admin/partials/cbcart-admin-setup-toogle.php:250
+#: admin/partials/cbcart-admin-success.php:321
+#: admin/partials/cbcart-admin-test-message.php:188
+msgid "Verify Email"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:191
+#: admin/partials/cbcart-admin-setup-email.php:146
+#: admin/partials/cbcart-admin-setup-number.php:131
+#: admin/partials/cbcart-admin-setup-toogle.php:254
+#: admin/partials/cbcart-admin-success.php:324
+#: admin/partials/cbcart-admin-test-message.php:192
+msgid "Set Mobile Number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:199
+msgid "Default Templates"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:201
+msgid ""
+" Please ensure the URL is correct and of your final production website. The "
+"same URL will be used in the action button of below WhatsApp messages."
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:206
+#: admin/partials/cbcart-admin-createtemplates.php:295
+#: admin/partials/cbcart-admin-customise-template.php:470
+#: admin/partials/cbcart-admin-setup-number.php:165
+#: admin/partials/cbcart-admin-test-message.php:278
+msgid "Continue"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:210
+msgid "Your Production Website URL :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:219
+msgid ""
+"We will create below default WhatsApp templates. Template messages shall be "
+"used for abandoned cart and order notification. Click continue to create the "
+"templates. You can, later on, change the templates as well."
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:224
+msgid "Order Notification For Admin"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:232
+msgid "Order Notification For Customer"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:242
+msgid "Abandoned-Cart Notification 1"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:250
+msgid "Abandoned-Cart Notification 2"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:260
+msgid "Abandoned-Cart Notification 3"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:268
+msgid "Abandoned-Cart Notification 4"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:278
+msgid "Abandoned-Cart Notification 5"
+msgstr ""
+
+#: admin/partials/cbcart-admin-createtemplates.php:286
+msgid "Contact-Form 7 Notification"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:184
+#: admin/partials/cbcart-admin-order-notification.php:137
+msgid "Image path is empty."
+msgstr ""
+
+#. image for support section
+#. Define cartbox basic logo
+#: admin/partials/cbcart-admin-customise-template.php:456 cbcart.php:49
+msgid "/admin/images/cbcart-Globeicon.png"
+msgstr ""
+
+#. Define global logo
+#: admin/partials/cbcart-admin-customise-template.php:457 cbcart.php:50
+msgid "/admin/images/cbcart-chatsupport.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:466
+#: admin/partials/cbcart-admin-customise-template.php:630
+msgid "Back"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:474
+#: admin/partials/cbcart-admin-customise-template.php:553
+msgid " Customise Templates"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:481
+msgid " Current Template"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:490
+#: admin/partials/cbcart-admin-customise-template.php:535
+msgid " Select"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:501
+msgid " Available WhatsApp Templates"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:584
+msgid "Name :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:590
+msgid "Language :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:609
+msgid "Image URL "
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:615
+msgid "Button 1 Link"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:620
+msgid "{{checkouturl}}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:622
+msgid "{{storeurl}}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:634
+msgid "Save and continue"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:644
+#: admin/partials/cbcart-admin-incoming-message.php:144
+#: admin/partials/cbcart-admin-setup-toogle.php:349
+#: admin/partials/cbcart-admin-startup.php:198
+#: admin/partials/cbcart-admin-test-message.php:290
+msgid "Need Support: "
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:646
+#: admin/partials/cbcart-admin-incoming-message.php:152
+#: admin/partials/cbcart-admin-setup-toogle.php:357
+#: admin/partials/cbcart-admin-startup.php:200
+#: admin/partials/cbcart-admin-test-message.php:293
+msgid "Website"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:647
+#: admin/partials/cbcart-admin-incoming-message.php:155
+#: admin/partials/cbcart-admin-setup-toogle.php:358
+#: admin/partials/cbcart-admin-startup.php:201
+#: admin/partials/cbcart-admin-test-message.php:294
+msgid "Chat"
+msgstr ""
+
+#: admin/partials/cbcart-admin-customise-template.php:650
+#: admin/partials/cbcart-admin-incoming-message.php:118
+#: admin/partials/cbcart-admin-incoming-message.php:161
+#: admin/partials/cbcart-admin-setup-toogle.php:363
+#: admin/partials/cbcart-admin-startup.php:185
+#: admin/partials/cbcart-admin-startup.php:203
+#: admin/partials/cbcart-admin-test-message.php:298
+msgid "Email"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:10
+msgid "WooCommerce is required for this plugin."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:20
+msgid "/admin/images/cbcart-LogoNew-black2.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:25
+msgid "Cartbox Widgets"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:32
+#: admin/partials/cbcart-admin-startup.php:56
+msgid " WooCommerce is required for this plugin."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:33
+#: admin/partials/cbcart-admin-message-cf7.php:177
+#: admin/partials/cbcart-admin-startup.php:57
+msgid "Install Plugin Now"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:45
+msgid "Are you facing any issue in setup?"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:47
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:48
+msgid "  for online chat support or Email us at "
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:49
+msgid "hi@cartbox.net"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:50
+msgid "You can also WhatsApp us on"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:52
+msgid "919106393472."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:74
+msgid "Admin and customer gets a WhatsApp message for every successful order."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:78
+#: admin/partials/cbcart-admin-dashboard.php:105
+#: admin/partials/cbcart-admin-dashboard.php:132
+#: admin/partials/cbcart-admin-dashboard.php:159
+#: admin/partials/cbcart-admin-dashboard.php:185
+#: admin/partials/cbcart-admin-dashboard.php:209
+msgid "Manage"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:83
+#: admin/partials/cbcart-admin-dashboard.php:110
+#: admin/partials/cbcart-admin-dashboard.php:137
+#: admin/partials/cbcart-admin-dashboard.php:164
+msgid "Note : This widget requires free WhatsApp Cloud API setup."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:101
+msgid ""
+"Recover failed orders in real cash by sending multiple WhatsApp messages."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:119
+msgid "Message notification for contact form 7"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:128
+msgid ""
+"Admin can receive a message notification for every inquiry made for Contact "
+"Form 7."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:146
+msgid "Incoming Messages for Web-admin"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:155
+msgid "Website owner can receive an incoming message on forwarded number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:173
+msgid "click to chat"
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:182
+msgid ""
+"Click to chat feature allows you to begin a WhatsApp chat with visitors on "
+"your website."
+msgstr ""
+
+#: admin/partials/cbcart-admin-dashboard.php:205
+msgid "Display a popup to capture mobile number when user clicks add to cart"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:65
+msgid "Please Enter Modal Heading."
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:73
+msgid "Please Enter Modal Text."
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:81
+#: admin/partials/cbcart-admin-early-capture.php:97
+msgid "Please Enter Placeholder."
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:89
+msgid "Please Enter Button Text."
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:151
+msgid "Cartbox Mobile Capture"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:161
+msgid "Popup Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:173
+msgid "Enable Add to Cart Popup modal"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:192
+msgid "Modal Heading:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:203
+msgid "Modal Text:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:213
+msgid "Mobile number Placeholder:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:223
+msgid "Customer consent Text :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:232
+msgid "Add to cart button text"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:241
+msgid "Add to cart button:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:245
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:250
+msgid "Button Color"
+msgstr ""
+
+#: admin/partials/cbcart-admin-early-capture.php:273
+msgid "Popup Preview "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:63
+msgid "Please Enter Valid Email Id."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:71
+#: admin/partials/cbcart-admin-message-cf7.php:59
+#: admin/partials/cbcart-admin-order-notification.php:81
+#: admin/partials/cbcart-admin-settings.php:274
+#: admin/partials/cbcart-admin-settings.php:450
+#: admin/partials/cbcart-admin-setup-number.php:56
+#: admin/partials/cbcart-admin-setup-toogle.php:70
+#: admin/partials/cbcart-admin-test-message.php:51
+msgid "Please Enter Mobile Number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:78
+msgid "Please Enter Only Numbers in Mobile Number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:94
+msgid "Your incoming message setting is updated successfully."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:101
+msgid "Something went wrong! try again."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:122
+msgid "Forward Number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:126
+msgid "Webhook URL"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:129
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:148
+#: admin/partials/cbcart-admin-setup-toogle.php:353
+#: admin/partials/cbcart-admin-test-message.php:291
+msgid "Video Tutorial"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:173
+msgid "How to set webhook to receive incoming messages"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:175
+msgid ""
+"Incoming webhooks provide developers with the ability to post a message or a "
+"card to a specific chat via a dedicated URL. Incoming webhooks are special "
+"in that no authentication credentials are required to post a message via "
+"this URL. Incoming webhooks are therefore commonly used to integrate with "
+"third-party systems that need the ability to post content to a chat without "
+"a lot of overhead."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:176
+msgid ""
+"Video Tutorial on How to set webhook to receive incoming messages (Step by "
+"Step)."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:177
+msgid "Step 1:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:178
+msgid "To access the template management page, click on "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:178
+msgid "“Configuration under the WhatsApp Tab“"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:178
+msgid "After this, you will be landed up on this screen."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:180
+msgid "Step 2:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:181
+msgid "Once you click on the "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:181
+msgid "“Configuration tab”"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:181
+msgid "this screen will appear. Now you can"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:181
+msgid "“Edit”"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:181
+msgid "Webhook."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:183
+msgid "Step 3:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid "Here You have to FIll "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid "“Callback URL”"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid " and "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid "“Verify Token“"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid "Now you have to click on "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid "Verify and save"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:184
+msgid "button."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:186
+msgid "Callback URL:- "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:186
+msgid "https://webhook.whatso.net/v1/webhook"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:187
+msgid "Verify Token:- "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:187
+msgid "webhook"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:190
+msgid "Step 4:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:191
+msgid ""
+"After the click on the save button. The callback URL and Verify Token will "
+"display."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:193
+msgid "Step 5:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid "Now You can go to the "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid "“Webhooks”"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid "Tab and find the"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid "message’s"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid "name and tap on the "
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid "“Subscribe”"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:194
+msgid " button."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:196
+msgid "Step 6:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:197
+msgid "After the Tap on"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:197
+msgid "Subscribe button"
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:197
+msgid "the below message will show on your screen."
+msgstr ""
+
+#: admin/partials/cbcart-admin-incoming-message.php:199
+msgid "Now, You complete the set webhook to receive incoming messages."
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:8
+msgid ""
+"A new contact form submission is received and is published on {storename}. "
+"You can check it out : Customer Email: {customeremail}, Subject: "
+"{customersubject}, Message: {customermessage}, Customer number: "
+"{customernumber}. Thank you.\n"
+"\n"
+"{storeurl}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:66
+#: admin/partials/cbcart-admin-order-notification.php:88
+#: admin/partials/cbcart-admin-setup-number.php:63
+msgid "Please enter atleast 7 digit number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:87
+#: admin/partials/cbcart-admin-order-notification.php:109
+msgid "Please enter valid number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:96
+msgid "Please enter correct number of"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:104
+#: admin/partials/cbcart-admin-order-notification.php:126
+msgid "You cannot enter more then 10 numbers"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:170
+msgid "cartbox Message Notification via Contact Form 7"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:176
+msgid " Contact Form 7 is required for this plugin."
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:187
+msgid "WhatsApp message to admin on new Contact Form 7 submission"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:203
+msgid "WhatsApp number with country code.  "
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:204
+msgid "(You will receive notifications on this number.)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:206
+#: admin/partials/cbcart-admin-order-notification.php:432
+msgid "Enter Mobile Number with country code. Do not prefix with a 0 or +"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:207
+#: admin/partials/cbcart-admin-order-notification.php:436
+msgid "Please Enter only Number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:211
+#: admin/partials/cbcart-admin-order-notification.php:441
+#: admin/partials/cbcart-admin-order-notification.php:503
+msgid "Template Name :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:214
+#: admin/partials/cbcart-admin-order-notification.php:445
+#: admin/partials/cbcart-admin-order-notification.php:506
+msgid "Template Language :"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:219
+#: admin/partials/cbcart-admin-order-notification.php:450
+#: admin/partials/cbcart-admin-order-notification.php:511
+msgid "Message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:222
+#: admin/partials/cbcart-admin-order-notification.php:455
+msgid "Enter message that you want to be sent when the order is placed."
+msgstr ""
+
+#: admin/partials/cbcart-admin-message-cf7.php:241
+msgid ""
+"Note : This plugin will not send any WhatsApp if the contact-form 7 "
+"submission has any URL link in it to avoid spamming"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:2
+msgid ""
+"hi, an order is placed on {storename} at {orderdate}.\n"
+"\n"
+"The order is for {productname} and order amount is {amountwithcurrency}.\n"
+"\n"
+"Customer details are: {customernumber}\n"
+"\n"
+"{customeremail}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:3
+msgid ""
+"{customername}, your {productname} order of {amountwithcurrency} has been "
+"placed. \n"
+"\n"
+"We will keep you updated about your order status.\n"
+"\n"
+"{storename}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:118
+msgid "Please enter correct number of "
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:145
+msgid "Image path is wrong."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:403
+msgid "Cartbox Order notification"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:410
+msgid "Advance Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:418
+msgid "WhatsApp Message To Admin On Order Success "
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:427
+msgid "WhatsApp number with country code. "
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:428
+msgid "(You will receive notifications on this number)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:435
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:457
+#: admin/partials/cbcart-admin-order-notification.php:518
+msgid "Your message must be atleast 2 characters."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:458
+#: admin/partials/cbcart-admin-order-notification.php:519
+msgid "Replace {#var#} with your cbcart_data."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:466
+#: admin/partials/cbcart-admin-order-notification.php:528
+msgid "Change template"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:480
+msgid "WhatsApp Message To Customer On Order Success"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:547
+msgid "Note:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:549
+msgid ""
+"This form helps you to setup configuration for sending a WhatsApp message to "
+"the website-owner / adminstrator and the customer for every successful order."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:550
+msgid ""
+"In the mobile number field, you need to enter the number of the web-"
+"administrator or the founder of the store. You can add upto 10 numbers "
+"separated by a comma."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:565
+msgid ""
+"Looks like you do not have any orders yet.But do not worry, as soon as "
+"someone place order, the message will automatically appear here."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:579
+msgid "Date/Time"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:609
+msgid "In which event, should we consider an order to be placed successfully?"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:616
+msgid "Processing (woocommerce_checkout_order_processed)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:617
+msgid ""
+"- This WooCommerce hook is recommended for only Cash on Delivery orders."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:626
+msgid "Payment Completed (woocommerce_payment_complete)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:627
+msgid ""
+"- This WooCommerce hook is recommended for external payment gateways and "
+"Cash on Delivery orders."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:636
+msgid "Completed (woocommerce_order_status_completed)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:637
+msgid "- This WooCommerce hook is recommended for order fulfillment state."
+msgstr ""
+
+#: admin/partials/cbcart-admin-order-notification.php:641
+msgid ""
+"Note: If you are not getting order completion messages, try using the any "
+"above option and place a test order on your website to check."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:120
+msgid ""
+"Hi We noticed you didnt finish your order on {storename}.\\n\\nVisit "
+"{siteurl} to complete your order.  \\n\\nThanks, {storename}."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:167
+msgid "Please Enter valid time."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:229
+#: admin/partials/cbcart-admin-settings.php:306
+msgid "Details update successfully . Setup more in"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:229
+#: admin/partials/cbcart-admin-settings.php:306
+msgid " Order Notification "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:229
+#: admin/partials/cbcart-admin-settings.php:306
+msgid " and in "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:229
+#: admin/partials/cbcart-admin-settings.php:306
+msgid " Abandoned Cart"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:281
+#: admin/partials/cbcart-admin-settings.php:457
+#: admin/partials/cbcart-admin-settings.php:806
+#: admin/partials/cbcart-admin-test-message.php:58
+#: admin/partials/cbcart-admin-test-message.php:232
+msgid "Please enter minimum 7 digits number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:289
+msgid "Please Enter valid Email Address."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:425
+#: admin/partials/cbcart-admin-test-message.php:13
+msgid "en_US"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:426
+#: admin/partials/cbcart-admin-test-message.php:14
+msgid "hello_world"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:443
+#: admin/partials/cbcart-admin-test-message.php:45
+#: admin/partials/cbcart-admin-test-message.php:103
+msgid ""
+"Hi, thank you for opt-in to receive notifications from us on WhatsApp. We "
+"will send you regular updates on the progress of your order. If you wish to "
+"unsubscribe, please reply with STOP. Have a good day"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:475
+#: admin/partials/cbcart-admin-settings.php:481
+msgid "Test Message send successfully!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:487
+msgid ""
+"Message Sending failed. Either your WhatsApp phone number ID and Token was "
+"wrong or the Template name and language you selected is wrong."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:493
+msgid "Message Sending failed."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:500
+msgid ""
+"Hi TestName, We noticed you didn't finish your order on {storename}.\n"
+"\n"
+"Visit {siteurl} to complete your order.  \n"
+"\n"
+"Thanks, {storename}."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:501
+msgid ""
+"Hi TestName, an order is placed on {storename} at {orderdate}.\n"
+"\n"
+"The order is for TestProduct and order amount is $10.\n"
+"\n"
+"Customer details are: Test Customer\n"
+"\n"
+"Testcustomer@gmail.com"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:502
+msgid ""
+"Hi TestName, your TestProduct order of $10 has been placed. \n"
+"\n"
+"We will keep you updated about your order status.\n"
+"\n"
+"{storename}"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:524
+msgid "<?php echo esc_url( cbcart_product_page_url); ?>"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:557
+#: admin/partials/cbcart-admin-setup-toogle.php:94
+msgid "Please Enter WhatsApp Business Account ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:564
+#: admin/partials/cbcart-admin-setup-toogle.php:101
+msgid "Please Enter atleast 15 digit WhatsApp Business Account ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:571
+#: admin/partials/cbcart-admin-setup-toogle.php:108
+msgid "Please Enter only numbers in WhatsApp Business Account ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:579
+#: admin/partials/cbcart-admin-setup-toogle.php:116
+msgid "Please Enter Facebook cloud Phone number ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:586
+#: admin/partials/cbcart-admin-setup-toogle.php:123
+msgid "Please Enter atleast 15 digit Facebook cloud Phone number ID ."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:593
+#: admin/partials/cbcart-admin-setup-toogle.php:130
+msgid "Please Enter only numbers in Facebook cloud Phone number ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:601
+#: admin/partials/cbcart-admin-setup-toogle.php:138
+msgid "Please Enter Facebook cloud Permanent Token."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:614
+msgid "Details update successfully ."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:619 cbcart.php:48
+msgid "/admin/images/cbcart-LogoNew-black.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:626
+msgid "cartbox Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:631
+msgid "Abandoned Cart Settings"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:634
+msgid "WhatsApp Configuration"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:637
+msgid "Test Message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:640
+msgid "View Profile"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:650
+msgid "Enable abandoned cart"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:658
+msgid "Check for new abandoned cart"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:663
+msgid "Please enter the abandoned time."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:679
+msgid "Enable do not send messages"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:690
+msgid "Start Time"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:703
+msgid "End Time"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:717
+msgid ""
+"The message will not go between the selected hours to comply with certain "
+"countries rules."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:719
+msgid "* The Do not Send Message is enable"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:720
+msgid "* Abandoned messages will not go from "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:721
+msgid " to "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:722
+msgid "* The Do not Send Message is disable"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:729
+#: admin/partials/cbcart-admin-settings.php:783
+#: admin/partials/cbcart-admin-settings.php:884
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:733
+msgid ""
+"If you have already purchased the plan, just click on the button and refresh."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:743
+msgid "Your Facebook Cloud API Details"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:748
+#: admin/partials/cbcart-admin-setup-toogle.php:310
+msgid "Enter your WhatsApp Business Account ID"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:751
+msgid "WhatsApp Business Account ID "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:752
+#: admin/partials/cbcart-admin-setup-toogle.php:314
+msgid "Please enter Valid WhatsApp Business Account ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:755
+#: admin/partials/cbcart-admin-setup-toogle.php:317
+msgid "Enter your Facebook Cloud Phone No. ID "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:758
+#: admin/partials/cbcart-admin-setup-toogle.php:320
+msgid "Enter Your Facebook Cloud Phone No. Id"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:759
+#: admin/partials/cbcart-admin-setup-toogle.php:321
+msgid "Please enter Valid Phone ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:764
+#: admin/partials/cbcart-admin-setup-toogle.php:324
+msgid "Enter your Facebook Cloud Permanent Token ID "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:767
+msgid "Enter Your Permanent Token"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:768
+#: admin/partials/cbcart-admin-setup-toogle.php:328
+msgid "Please enter Valid Token."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:775
+#: admin/partials/cbcart-admin-settings.php:870
+msgid "Change your number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:795
+msgid "Try Out Sending Test Message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:799
+msgid "Enter the number where we will send test message to try out"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:804
+msgid "Enter Mobile Number with country code.Do not use 0 or +."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:805
+#: admin/partials/cbcart-admin-settings.php:866
+#: admin/partials/cbcart-admin-test-message.php:231
+msgid "Please enter correct Mobile number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:812
+msgid "Enter Template Name"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:823
+msgid "Enter Language Code"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:828
+#: admin/partials/cbcart-admin-test-message.php:257
+msgid "Please enter language code."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:834
+#: admin/partials/cbcart-admin-test-message.php:267
+msgid "Send Test Message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:838
+msgid ""
+"A test message will be sent with our template as “Hello_World” in “en_us” "
+"language. If you wish to try a different template with a different name and "
+"language, you can check our options. To get your template name and code,"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:840
+msgid " Click here"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:840
+msgid " to get your template name and code"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:851
+msgid "E-mail address"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:854
+#: admin/partials/cbcart-admin-setup-email.php:164
+#: admin/partials/cbcart-admin-setup-email.php:197
+msgid "Please enter Valid E-mail ID."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:859
+msgid "Mobile Number (from which you want to send message) "
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:872
+msgid "You are using free version of plugin.you can not change number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:873
+msgid " if you have already paid to upgrade the plugin,"
+msgstr ""
+
+#: admin/partials/cbcart-admin-settings.php:875
+msgid "setup your new number now."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:69
+msgid "/admin/images/cbcart-VectorArrow.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:74
+msgid "Abandoned Cart Recovery"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:75
+msgid "Cartbox Abandoned Cart is the easiest way to recover all your Orders!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:78
+msgid "A Summary of last "
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:78
+msgid "45 days"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:78
+msgid " Orders"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:88
+msgid "Successfull Orders"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:105
+msgid "Failed Orders"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:110
+msgid "Amount to recover"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:119
+msgid "vector"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:125
+msgid "We can help you to"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:126
+msgid "recover this."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:133
+msgid "Lets Get Started!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:140
+msgid "WooCommerce is required"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:141
+msgid " for our abandoned cart plugin!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-abandonedcart.php:144
+msgid "Install Plugin"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:68
+msgid "Please Enter OTP."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:94
+msgid "Please Enter Valid OTP."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:155
+msgid "Let’s get started with something amazing in 2 minutes!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:158
+msgid "Enter Your Email"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:161
+msgid "Enter E-mail"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:162
+msgid "We need your email address to verify your order details."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:169
+msgid "Next"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:173
+msgid "We will send you One Time Password (OTP)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:183
+msgid "Let’s get started for something amazing!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:186
+msgid "Enter OTP"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:189
+msgid "One Time Password (OTP) is sent on  "
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:203
+msgid "Verify"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-email.php:212
+msgid "Resend OTP"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:70
+msgid "Please enter only numbers."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:109
+msgid "/admin/images/cbcart_Mobilecharts.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:138
+msgid "Free Plan"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:143
+msgid "All the messsages you want to send will go from the below number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:146
+msgid "Enter your Mobile number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:174
+msgid "Ultimate Plan"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:175
+msgid "Recover Abandoned Cart Via WhatsApp"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:176
+msgid "Customized Messages"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:177
+#: admin/partials/cbcart-admin-setup-number.php:192
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:188
+msgid "Premium Plan"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:189
+msgid "Abandoned Cart Mobile Number Report"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:190
+msgid "Unlimited Messages"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:191
+msgid "Installation Support"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-number.php:205
+msgid "Restart If you have already upgraded the plan"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:77
+msgid "Please enter correct digit number."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:84
+msgid "Please Enter only numbers."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:268
+msgid "Enter your WhatsApp cloud API details"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:271
+msgid "Visit the"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:273
+msgid "Tutorial"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:273
+msgid "  screen for more information."
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:286
+#: admin/partials/cbcart-admin-test-message.php:215
+msgid "Response from Facebook"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:297
+msgid "Your WhatsApp number approved by "
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:298
+msgid "Facebook Cloud API"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:310
+#: admin/partials/cbcart-admin-setup-toogle.php:317
+#: admin/partials/cbcart-admin-setup-toogle.php:324
+msgid "*"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:310
+#: admin/partials/cbcart-admin-setup-toogle.php:317
+#: admin/partials/cbcart-admin-setup-toogle.php:324
+msgid "(?)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:313
+msgid "Enter Your WhatsApp Business Account ID "
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:338
+msgid "Save & Continue"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:373
+#: admin/partials/cbcart-admin-startup.php:80
+msgid "Cloud API Setup Tutorials"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:382
+#: admin/partials/cbcart-admin-startup.php:87
+msgid "Step 1"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:386
+#: admin/partials/cbcart-admin-setup-toogle.php:417
+#: admin/partials/cbcart-admin-startup.php:91
+#: admin/partials/cbcart-admin-startup.php:122
+msgid "How to setup WhatsApp cloud API?"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:393
+#: admin/partials/cbcart-admin-startup.php:98
+msgid "Step 2"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:397
+#: admin/partials/cbcart-admin-startup.php:102
+msgid "How to generate the permanent token in cloud API?"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:403
+#: admin/partials/cbcart-admin-startup.php:108
+msgid "Step 3"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:407
+#: admin/partials/cbcart-admin-startup.php:112
+msgid "How to create templates on WhatsApp cloud API?"
+msgstr ""
+
+#: admin/partials/cbcart-admin-setup-toogle.php:413
+#: admin/partials/cbcart-admin-startup.php:118
+msgid "Step 4"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:3
+#: admin/partials/cbcart-admin-success.php:287
+msgid "/admin/images/cbcart-check.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:48
+msgid "Cartbox - WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:49
+msgid "Powered by Cloud API from WhatsApp"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:70
+msgid ""
+"Thank you for installing the plugin. To set your plugin up further, we will "
+"need you to setup a WhatsApp Cloud API account. Once your Cloud API setup is "
+"done, you will get your Business Account ID, Phone Number ID and Permanent "
+"Token through WhatsApp. For more information on setup, please refer to the "
+"tutorials below."
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:132
+msgid "Benefits of WhatsApp Cloud API"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:142
+#: admin/partials/cbcart-admin-startup.php:153
+#: admin/partials/cbcart-admin-startup.php:164
+#: admin/partials/cbcart-admin-success.php:348
+#: admin/partials/cbcart-admin-success.php:358
+#: admin/partials/cbcart-admin-success.php:368
+msgid "check image"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:144
+msgid "Send up to 1,00,000 messages/day from your own WhatsApp number"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:155
+msgid "No setup charges and pay message charge directly to Facebook."
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:166
+msgid "Get free 1000 messages every month."
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:177
+msgid "Important Note"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:183
+msgid "You will need the following to get started:"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:186
+msgid "Live website URL"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:187
+msgid "Facebook account"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:188
+msgid "A mobile number that has never been previously "
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:188
+msgid "used on WhatsApp(extremely important)"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:189
+msgid "Country specific company formation documents"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:190
+msgid "Company address and ID verification documents"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:216
+#: admin/partials/cbcart-admin-startup.php:218
+#: admin/partials/cbcart-admin-startup.php:245
+#: admin/partials/cbcart-admin-startup.php:247
+msgid "Start Now"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:224
+msgid "Step : 1"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:227
+msgid "Setup Cloud API On Facebook developer portal."
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:230
+msgid "Facebook cloud Setup"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:238
+msgid "Step : 2"
+msgstr ""
+
+#: admin/partials/cbcart-admin-startup.php:240
+msgid "Done with Cloud API Setup on Facebook? "
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:285
+msgid "/admin/images/cbcart-success.png"
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:333
+msgid "Congratulations image"
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:336
+msgid "Congratulations!"
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:337
+msgid "Your setup is completed and now messages will go automatically."
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:343
+msgid "The following services are enabled for your business."
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:351
+msgid "5 Abandoned Cart Reminder Messages"
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:361
+msgid "Successful order alert messages to customer and admin"
+msgstr ""
+
+#: admin/partials/cbcart-admin-success.php:371
+msgid "Contact Form 7 inquiry message alerts to admin."
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:77
+msgid "Message Sent Successfully"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:80
+#: admin/partials/cbcart-admin-test-message.php:83
+msgid "Message Sending Failed"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:203
+msgid "Send WhatsApp Test Message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:225
+msgid "Enter any  WhatsApp number to receive test message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:230
+msgid "Do Not Prefix number with 0 or + ."
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:244
+msgid "A sample massage is usually available for testing."
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:249
+msgid "Language code"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:255
+msgid "Sample massage in English language."
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:261
+msgid ""
+"NOTE : To send a test message please ensure you have an approved template by "
+"Facebook. "
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:262
+msgid "Click Here"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:262
+msgid "  to view all your templates."
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:273
+msgid "If you have recieved a message"
+msgstr ""
+
+#: admin/partials/cbcart-admin-test-message.php:284
+msgid "Restart onboarding if any error"
+msgstr ""
+
+#. Define chekpoint
+#: cbcart.php:44
+msgid "https://www.cartbox.net/blog/useful-video-tutorials-for-cloud-api/"
+msgstr ""
+
+#. Define chekpoint
+#: cbcart.php:45 cbcart.php:47
+msgid "https://www.cartbox.net"
+msgstr ""
+
+#: cbcart.php:46
+msgid "https://api.whatsapp.com/send?phone=+919106393472&text=hi"
+msgstr ""
+
+#. Define chat icon
+#: cbcart.php:51
+msgid "/admin/images/cbcart-cloudsetup.jpg"
+msgstr ""
+
+#: cbcart.php:52
+msgid "/admin/images/cbcart-ptoken.jpg"
+msgstr ""
+
+#: cbcart.php:53
+msgid "/admin/images/cbcart-how-to-create-template.jpg"
+msgstr ""
+
+#: cbcart.php:54
+msgid "https://www.cartbox.net/pricing"
+msgstr ""
+
+#: cbcart.php:59 cbcart.php:299
+msgid "India +91"
+msgstr ""
+
+#: cbcart.php:62
+msgid "Algeria +213"
+msgstr ""
+
+#: cbcart.php:65
+msgid "Andorra +376"
+msgstr ""
+
+#: cbcart.php:68
+msgid "Angola +244"
+msgstr ""
+
+#: cbcart.php:71
+msgid "Anguilla +1264"
+msgstr ""
+
+#: cbcart.php:74
+msgid "Antigua &amp; Barbuda +1268"
+msgstr ""
+
+#: cbcart.php:76
+msgid "Argentina +54"
+msgstr ""
+
+#: cbcart.php:79
+msgid "Armenia +374"
+msgstr ""
+
+#: cbcart.php:82
+msgid "Aruba +297"
+msgstr ""
+
+#: cbcart.php:84
+msgid "Australia +61"
+msgstr ""
+
+#: cbcart.php:86
+msgid "Austria +43"
+msgstr ""
+
+#: cbcart.php:89
+msgid "Azerbaijan +994"
+msgstr ""
+
+#: cbcart.php:92
+msgid "Bahamas +1242"
+msgstr ""
+
+#: cbcart.php:95
+msgid "Bahrain +973"
+msgstr ""
+
+#: cbcart.php:98
+msgid "Bangladesh +880"
+msgstr ""
+
+#: cbcart.php:101
+msgid "Barbados +1246"
+msgstr ""
+
+#: cbcart.php:104
+msgid "Belarus +375"
+msgstr ""
+
+#: cbcart.php:106
+msgid "Belgium +32"
+msgstr ""
+
+#: cbcart.php:109
+msgid "Belize +501"
+msgstr ""
+
+#: cbcart.php:112
+msgid "Benin +229"
+msgstr ""
+
+#: cbcart.php:115
+msgid "Bermuda +1441"
+msgstr ""
+
+#: cbcart.php:118
+msgid "Bhutan +975"
+msgstr ""
+
+#: cbcart.php:121
+msgid "Bolivia +591"
+msgstr ""
+
+#: cbcart.php:124
+msgid "Bosnia Herzegovina +387"
+msgstr ""
+
+#: cbcart.php:127
+msgid "Botswana +267"
+msgstr ""
+
+#: cbcart.php:129
+msgid "Brazil +55"
+msgstr ""
+
+#: cbcart.php:132
+msgid "Brunei +673"
+msgstr ""
+
+#: cbcart.php:135
+msgid "Bulgaria +359"
+msgstr ""
+
+#: cbcart.php:138
+msgid "Burkina Faso +226"
+msgstr ""
+
+#: cbcart.php:141
+msgid "Burundi +257"
+msgstr ""
+
+#: cbcart.php:144
+msgid "Cambodia +855"
+msgstr ""
+
+#: cbcart.php:147
+msgid "Cameroon +237"
+msgstr ""
+
+#: cbcart.php:149
+msgid "Canada +1"
+msgstr ""
+
+#: cbcart.php:152
+msgid "Cape Verde Islands +238"
+msgstr ""
+
+#: cbcart.php:155
+msgid "Cayman Islands +1345"
+msgstr ""
+
+#: cbcart.php:158
+msgid "Central African Republic +236"
+msgstr ""
+
+#: cbcart.php:160
+msgid "Chile +56"
+msgstr ""
+
+#: cbcart.php:162
+msgid "China +86"
+msgstr ""
+
+#: cbcart.php:164
+msgid "Colombia +57"
+msgstr ""
+
+#: cbcart.php:167
+msgid "Comoros +269"
+msgstr ""
+
+#: cbcart.php:170
+msgid "Congo +242"
+msgstr ""
+
+#: cbcart.php:173
+msgid "Cook Islands +682"
+msgstr ""
+
+#: cbcart.php:176
+msgid "Costa Rica +506"
+msgstr ""
+
+#: cbcart.php:179
+msgid "Croatia +385"
+msgstr ""
+
+#: cbcart.php:181
+msgid "Cuba +53"
+msgstr ""
+
+#: cbcart.php:184
+msgid "Cyprus North +90392"
+msgstr ""
+
+#: cbcart.php:187
+msgid "Cyprus South +357"
+msgstr ""
+
+#: cbcart.php:189
+msgid "Czech Republic +42"
+msgstr ""
+
+#: cbcart.php:191
+msgid "Denmark +45"
+msgstr ""
+
+#: cbcart.php:194
+msgid "Djibouti +253"
+msgstr ""
+
+#: cbcart.php:197
+msgid "Dominica +1809"
+msgstr ""
+
+#: cbcart.php:200
+msgid "Dominican Republic +1809"
+msgstr ""
+
+#: cbcart.php:203
+msgid "Ecuador +593"
+msgstr ""
+
+#: cbcart.php:205
+msgid "Egypt +20"
+msgstr ""
+
+#: cbcart.php:208
+msgid "El Salvador +503"
+msgstr ""
+
+#: cbcart.php:211
+msgid "Equatorial Guinea +240"
+msgstr ""
+
+#: cbcart.php:214
+msgid "Eritrea +291"
+msgstr ""
+
+#: cbcart.php:217
+msgid "Estonia +372"
+msgstr ""
+
+#: cbcart.php:220
+msgid "Ethiopia +251"
+msgstr ""
+
+#: cbcart.php:223
+msgid "Falkland Islands +500"
+msgstr ""
+
+#: cbcart.php:226
+msgid "Faroe Islands +298"
+msgstr ""
+
+#: cbcart.php:229
+msgid "Fiji +679"
+msgstr ""
+
+#: cbcart.php:232
+msgid "Finland +358"
+msgstr ""
+
+#: cbcart.php:234
+msgid "France +33"
+msgstr ""
+
+#: cbcart.php:237
+msgid "French Guiana +594"
+msgstr ""
+
+#: cbcart.php:240
+msgid "French Polynesia +689"
+msgstr ""
+
+#: cbcart.php:243
+msgid "Gabon +241"
+msgstr ""
+
+#: cbcart.php:246
+msgid "Gambia +220"
+msgstr ""
+
+#: cbcart.php:249
+msgid "Georgia +7880"
+msgstr ""
+
+#: cbcart.php:251
+msgid "Germany +49"
+msgstr ""
+
+#: cbcart.php:254
+msgid "Ghana +233"
+msgstr ""
+
+#: cbcart.php:257
+msgid "Gibraltar +350"
+msgstr ""
+
+#: cbcart.php:259
+msgid "Greece +30"
+msgstr ""
+
+#: cbcart.php:262
+msgid "Greenland +299"
+msgstr ""
+
+#: cbcart.php:265
+msgid "Grenada +1473"
+msgstr ""
+
+#: cbcart.php:268
+msgid "Guadeloupe +590"
+msgstr ""
+
+#: cbcart.php:271
+msgid "Guam +671"
+msgstr ""
+
+#: cbcart.php:274
+msgid "Guatemala +502"
+msgstr ""
+
+#: cbcart.php:277
+msgid "Guinea +224"
+msgstr ""
+
+#: cbcart.php:280
+msgid "Guinea - Bissau +245"
+msgstr ""
+
+#: cbcart.php:283
+msgid "Guyana +592"
+msgstr ""
+
+#: cbcart.php:286
+msgid "Haiti +509"
+msgstr ""
+
+#: cbcart.php:289
+msgid "Honduras +504"
+msgstr ""
+
+#: cbcart.php:292
+msgid "Hong Kong +852"
+msgstr ""
+
+#: cbcart.php:294
+msgid "Hungary +36"
+msgstr ""
+
+#: cbcart.php:297
+msgid "Iceland +354"
+msgstr ""
+
+#: cbcart.php:301
+msgid "Indonesia +62"
+msgstr ""
+
+#: cbcart.php:303
+msgid "Iran +98"
+msgstr ""
+
+#: cbcart.php:306
+msgid "Iraq +964"
+msgstr ""
+
+#: cbcart.php:309
+msgid "Ireland +353"
+msgstr ""
+
+#: cbcart.php:312
+msgid "Israel +972"
+msgstr ""
+
+#: cbcart.php:314
+msgid "Italy +39"
+msgstr ""
+
+#: cbcart.php:317
+msgid "Jamaica +1876"
+msgstr ""
+
+#: cbcart.php:319
+msgid "Japan +81"
+msgstr ""
+
+#: cbcart.php:322
+msgid "Jordan +962"
+msgstr ""
+
+#: cbcart.php:324
+msgid "Kazakhstan +7"
+msgstr ""
+
+#: cbcart.php:327
+msgid "Kenya +254"
+msgstr ""
+
+#: cbcart.php:330
+msgid "Kiribati +686"
+msgstr ""
+
+#: cbcart.php:333
+msgid "Korea North +850"
+msgstr ""
+
+#: cbcart.php:335
+msgid "Korea South +82"
+msgstr ""
+
+#: cbcart.php:338
+msgid "Kuwait +965"
+msgstr ""
+
+#: cbcart.php:341
+msgid "Kyrgyzstan +996"
+msgstr ""
+
+#: cbcart.php:344
+msgid "Laos +856"
+msgstr ""
+
+#: cbcart.php:347
+msgid "Latvia +371"
+msgstr ""
+
+#: cbcart.php:350
+msgid "Lebanon +961"
+msgstr ""
+
+#: cbcart.php:353
+msgid "Lesotho +266"
+msgstr ""
+
+#: cbcart.php:356
+msgid "Liberia +231"
+msgstr ""
+
+#: cbcart.php:359
+msgid "Libya +218"
+msgstr ""
+
+#: cbcart.php:362
+msgid "Liechtenstein +417"
+msgstr ""
+
+#: cbcart.php:365
+msgid "Lithuania +370"
+msgstr ""
+
+#: cbcart.php:368
+msgid "Luxembourg +352"
+msgstr ""
+
+#: cbcart.php:371
+msgid "Macao +853"
+msgstr ""
+
+#: cbcart.php:374
+msgid "Macedonia +389"
+msgstr ""
+
+#: cbcart.php:377
+msgid "Madagascar +261"
+msgstr ""
+
+#: cbcart.php:380
+msgid "Malawi +265"
+msgstr ""
+
+#: cbcart.php:382
+msgid "Malaysia +60"
+msgstr ""
+
+#: cbcart.php:385
+msgid "Maldives +960"
+msgstr ""
+
+#: cbcart.php:388
+msgid "Mali +223"
+msgstr ""
+
+#: cbcart.php:391
+msgid "Malta +356"
+msgstr ""
+
+#: cbcart.php:394
+msgid "Marshall Islands +692"
+msgstr ""
+
+#: cbcart.php:397
+msgid "Martinique +596"
+msgstr ""
+
+#: cbcart.php:400
+msgid "Mauritania +222"
+msgstr ""
+
+#: cbcart.php:403
+msgid "Mayotte +269"
+msgstr ""
+
+#: cbcart.php:405
+msgid "Mexico +52"
+msgstr ""
+
+#: cbcart.php:408
+msgid "Micronesia +691"
+msgstr ""
+
+#: cbcart.php:411
+msgid "Moldova +373"
+msgstr ""
+
+#: cbcart.php:414
+msgid "Monaco +377"
+msgstr ""
+
+#: cbcart.php:417
+msgid "Mongolia +976"
+msgstr ""
+
+#: cbcart.php:420
+msgid "Montserrat +1664"
+msgstr ""
+
+#: cbcart.php:423
+msgid "Morocco +212"
+msgstr ""
+
+#: cbcart.php:426
+msgid "Mozambique +258"
+msgstr ""
+
+#: cbcart.php:428
+msgid "Myanmar +95"
+msgstr ""
+
+#: cbcart.php:431
+msgid "Namibia +264"
+msgstr ""
+
+#: cbcart.php:434
+msgid "Nauru +674"
+msgstr ""
+
+#: cbcart.php:437
+msgid "Nepal +977"
+msgstr ""
+
+#: cbcart.php:439
+msgid "Netherlands +31"
+msgstr ""
+
+#: cbcart.php:442
+msgid "New Caledonia +687"
+msgstr ""
+
+#: cbcart.php:444
+msgid "New Zealand +64"
+msgstr ""
+
+#: cbcart.php:447
+msgid "Nicaragua +505"
+msgstr ""
+
+#: cbcart.php:450
+msgid "Niger +227"
+msgstr ""
+
+#: cbcart.php:453
+msgid "Nigeria +234"
+msgstr ""
+
+#: cbcart.php:456
+msgid "Niue +683"
+msgstr ""
+
+#: cbcart.php:459
+msgid "Norfolk Islands +672"
+msgstr ""
+
+#: cbcart.php:462
+msgid "Northern Marianas +670"
+msgstr ""
+
+#: cbcart.php:464
+msgid "Norway +47"
+msgstr ""
+
+#: cbcart.php:467
+msgid "Oman +968"
+msgstr ""
+
+#: cbcart.php:470
+msgid "Palau +680"
+msgstr ""
+
+#: cbcart.php:473
+msgid "Panama +507"
+msgstr ""
+
+#: cbcart.php:476
+msgid "Papua New Guinea +675"
+msgstr ""
+
+#: cbcart.php:479
+msgid "Paraguay +595"
+msgstr ""
+
+#: cbcart.php:482
+msgid "Pakistan +92"
+msgstr ""
+
+#: cbcart.php:484
+msgid "Peru +51"
+msgstr ""
+
+#: cbcart.php:486
+msgid "Philippines +63"
+msgstr ""
+
+#: cbcart.php:488
+msgid "Poland +48"
+msgstr ""
+
+#: cbcart.php:491
+msgid "Portugal +351"
+msgstr ""
+
+#: cbcart.php:494
+msgid "Puerto Rico +1787"
+msgstr ""
+
+#: cbcart.php:497
+msgid "Qatar +974"
+msgstr ""
+
+#: cbcart.php:500
+msgid "Reunion +262"
+msgstr ""
+
+#: cbcart.php:502
+msgid "Romania +40"
+msgstr ""
+
+#: cbcart.php:504
+msgid "Russia +7"
+msgstr ""
+
+#: cbcart.php:507
+msgid "Rwanda +250"
+msgstr ""
+
+#: cbcart.php:510
+msgid "San Marino +378"
+msgstr ""
+
+#: cbcart.php:513
+msgid "Sao Tome &amp; Principe +239"
+msgstr ""
+
+#: cbcart.php:516
+msgid "Saudi Arabia +966"
+msgstr ""
+
+#: cbcart.php:519
+msgid "Senegal +221"
+msgstr ""
+
+#: cbcart.php:522
+msgid "Serbia +381"
+msgstr ""
+
+#: cbcart.php:525
+msgid "Seychelles +248"
+msgstr ""
+
+#: cbcart.php:528
+msgid "Sierra Leone +232"
+msgstr ""
+
+#: cbcart.php:530
+msgid "Singapore +65"
+msgstr ""
+
+#: cbcart.php:533
+msgid "Slovak Republic +421"
+msgstr ""
+
+#: cbcart.php:536
+msgid "Slovenia +386"
+msgstr ""
+
+#: cbcart.php:539
+msgid "Solomon Islands +677"
+msgstr ""
+
+#: cbcart.php:542
+msgid "Somalia +252"
+msgstr ""
+
+#: cbcart.php:544
+msgid "South Africa +27"
+msgstr ""
+
+#: cbcart.php:546
+msgid "Spain +34"
+msgstr ""
+
+#: cbcart.php:548
+msgid "Sri Lanka +94"
+msgstr ""
+
+#: cbcart.php:551
+msgid "St. Helena +290"
+msgstr ""
+
+#: cbcart.php:554
+msgid "St. Kitts +1869"
+msgstr ""
+
+#: cbcart.php:557
+msgid "St. Lucia +1758"
+msgstr ""
+
+#: cbcart.php:560
+msgid "Sudan +249"
+msgstr ""
+
+#: cbcart.php:563
+msgid "Suriname +597"
+msgstr ""
+
+#: cbcart.php:566
+msgid "Swaziland +268"
+msgstr ""
+
+#: cbcart.php:568
+msgid "Sweden +46"
+msgstr ""
+
+#: cbcart.php:570
+msgid "Switzerland +41"
+msgstr ""
+
+#: cbcart.php:573
+msgid "Syria +963"
+msgstr ""
+
+#: cbcart.php:576
+msgid "Taiwan +886"
+msgstr ""
+
+#: cbcart.php:578
+msgid "Tajikstan +7"
+msgstr ""
+
+#: cbcart.php:580
+msgid "Thailand +66"
+msgstr ""
+
+#: cbcart.php:583
+msgid "Togo +228"
+msgstr ""
+
+#: cbcart.php:586
+msgid "Tonga +676"
+msgstr ""
+
+#: cbcart.php:589
+msgid "Trinidad &amp; Tobago +1868"
+msgstr ""
+
+#: cbcart.php:592
+msgid "Tunisia +216"
+msgstr ""
+
+#: cbcart.php:594
+msgid "Turkey +90"
+msgstr ""
+
+#: cbcart.php:596
+msgid "Turkmenistan +7"
+msgstr ""
+
+#: cbcart.php:599
+msgid "Turkmenistan +993"
+msgstr ""
+
+#: cbcart.php:602
+msgid "Turks &amp; Caicos Islands +1649"
+msgstr ""
+
+#: cbcart.php:605
+msgid "Tuvalu +688"
+msgstr ""
+
+#: cbcart.php:608
+msgid "United States of America +1"
+msgstr ""
+
+#: cbcart.php:611
+msgid "Uganda +256"
+msgstr ""
+
+#: cbcart.php:614
+msgid "Ukraine +380"
+msgstr ""
+
+#: cbcart.php:617
+msgid "United Arab Emirates +971"
+msgstr ""
+
+#: cbcart.php:620
+msgid "United Kingdom +44"
+msgstr ""
+
+#: cbcart.php:623
+msgid "Uruguay +598"
+msgstr ""
+
+#: cbcart.php:625
+msgid "Uzbekistan +7"
+msgstr ""
+
+#: cbcart.php:628
+msgid "Vanuatu +678"
+msgstr ""
+
+#: cbcart.php:631
+msgid "Vatican City +379"
+msgstr ""
+
+#: cbcart.php:633
+msgid "Venezuela +58"
+msgstr ""
+
+#: cbcart.php:635
+msgid "Vietnam +84"
+msgstr ""
+
+#: cbcart.php:637
+msgid "Virgin Islands - British +1284"
+msgstr ""
+
+#: cbcart.php:639
+msgid "Virgin Islands - US +1340"
+msgstr ""
+
+#: cbcart.php:642
+msgid "Wallis &amp; Futuna +681"
+msgstr ""
+
+#: cbcart.php:645
+msgid "Yemen (North)+969"
+msgstr ""
+
+#: cbcart.php:648
+msgid "Yemen (South)+967"
+msgstr ""
+
+#: cbcart.php:651
+msgid "Zambia +260"
+msgstr ""
+
+#: cbcart.php:654
+msgid "Zimbabwe +263"
+msgstr ""
+
+#: includes/class-cbcart.php:437
+msgid "https://whatso.net/svc.asmx/GetOtpDetails"
+msgstr ""
+
+#: includes/class-cbcart.php:503
+msgid "https://webapi.whatso.net/api/UnAuthorized/get-plan"
+msgstr ""
+
+#: includes/class-cbcart.php:1023 includes/class-cbcart.php:1172
+#: includes/class-cbcart.php:1433 includes/class-cbcart.php:1582
+#: includes/class-cbcart.php:2700 includes/class-cbcart.php:3688
+#: includes/class-cbcart.php:3991
+msgid "https://api.whatso.net/v1/messages"
+msgstr ""
+
+#: includes/class-cbcart.php:2530
+msgid "https://api.whatso.net/app/add-waba-details"
+msgstr ""
+
+#: public/class-cbcart-public.php:334
+msgid "by"
+msgstr ""
